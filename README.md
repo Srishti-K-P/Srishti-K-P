@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srishti-k-p" alt="srishti-k-p" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
 - 👨‍💻 All of my projects are available at [https://github.com/srishti-k-p](https://github.com/srishti-k-p)
 
 - 📫 How to reach me **srishtikp03@gmail.com**
